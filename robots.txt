@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://raymondproguy.github.io/handbook-wh8r0t/sitemap.xml
